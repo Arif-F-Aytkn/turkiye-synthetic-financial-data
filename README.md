@@ -110,7 +110,7 @@ This project and generated data can be used for:
 
 The generated dataset is published on **Kaggle**:
 
-➡️ **Kaggle Dataset:** *(add your Kaggle link here)*
+➡️ **Kaggle Dataset:** *https://www.kaggle.com/datasets/ariffurkanaytekin/synthetic-financial-and-demographic-dataset-of-tr*
 
 ---
 
