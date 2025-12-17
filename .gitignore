@@ -1,0 +1,21 @@
+# ===============================
+# MATLAB
+# ===============================
+
+*.asv
+*.m~
+*.mex*
+*.mat
+
+# MATLAB autosave & temp
+slprj/
+codegen/
+*.autosave
+*.slxc
+
+# ===============================
+# OS files
+# ===============================
+
+.DS_Store
+Thumbs.db
