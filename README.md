@@ -68,29 +68,29 @@ Participation in investment instruments is modeled using **probability filters**
 
 The following plots are generated directly from the simulation to validate economic intuition:
 
-- **SEGE vs Income Distribution**  
-  _Sehir ve SEGE Dogrulamasi.png_
+### SEGE vs Income Distribution
+![SEGE vs Income Distribution](Sehir%20ve%20SEGE%20Dogrulamasi.png)
 
-- **Gender Effect on Commodity (Gold) Investment**  
-  _Cinsiyet Etkisi Dogrulamasi.png_
+### Gender Effect on Commodity (Gold) Investment
+![Gender Effect on Commodity Investment](Cinsiyet%20Etkisi%20Dogrulamasi.png)
 
-- **Education Level vs Income**  
-  _Egitim Seviyesi ve Maas Etkisi.png_
+### Education Level vs Income
+![Education Level vs Income](Egitim%20Seviyesi%20ve%20Maas%20Etkisi.png)
 
-- **Work Experience vs Total Wealth (Trend)**  
-  _Deneyim Yili ve Toplam Yatirim (Trend).png_
+### Work Experience vs Total Wealth (Trend)
+![Work Experience vs Total Wealth](Deneyim%20Yili%20ve%20Toplam%20Yatirim%20(Trend).png)
 
-- **Education & Financial Literacy (Stock Market Participation)**  
-  _Egitim ve Finansal Okuryazarlik (Borsa Katilimi).png_
+### Education & Financial Literacy (Stock Market Participation)
+![Education and Financial Literacy](Egitim%20ve%20Finansal%20Okuryazarlik%20(Borsa%20Katilimi).png)
 
-- **Portfolio Allocation by Occupation**  
-  _Mesleklere Gore Portfoy Dagilimi.png_
+### Portfolio Allocation by Occupation
+![Portfolio Allocation by Occupation](Mesleklere%20Gore%20Portfoy%20Dagilimi.png)
 
-- **Risk Perception: Gold vs Stock Preference**  
-  _Risk Algisinin Yatirima Etkisi (Altin vs Hisse).png_
+### Risk Perception: Gold vs Stock Preference
+![Risk Perception](Risk%20Algisinin%20Yatirima%20Etkisi%20(Altin%20vs%20Hisse).png)
 
-- **Income vs Credit Score Relationship**  
-  _Maas ve Kredi Notu Iliskisi.png_
+### Income vs Credit Score Relationship
+![Income vs Credit Score](Maas%20ve%20Kredi%20Notu%20Iliskisi.png)
 
 ---
 
